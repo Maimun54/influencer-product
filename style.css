@@ -150,6 +150,9 @@ p.product-description {
         grid-template-columns: 1fr;
         margin-right: 75px;
     }
+    h2.s-influencer-title{
+        font-size: 2rem;
+    }
 }
 
 /* Medium device responsive start */
